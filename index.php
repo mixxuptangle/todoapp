@@ -24,22 +24,22 @@
       <div class="col">
 	<header><h1>TODO</h1></header>
 	<ul class="list">
-	  <li>สอน Git</li>
-	  <li>กินกอกก</li>
+	  <li>สอน Git <button name="delete_btn">x</button></li>
+	  <li>กินกอกก <button name="delete_btn">x</button></li>
 	</ul>
       </div>
       <div class="col">
 	<header><h1>DOING</h1></header>
 	<ul class="list">
-	  <li>สอน Git</li>
-	  <li>กินกอกก</li>
+	  <li>สอน Git <button name="delete_btn">x</button></li>
+	  <li>กินกอกก <button name="delete_btn">x</button></li>
 	</ul>
       </div>
       <div class="col">
 	<header><h1>DONE</h1></header>
 	<ul class="list">
-	  <li>สอน Git</li>
-	  <li>กินกอกก</li>
+	  <li>สอน Git <button name="delete_btn">x</button></li>
+	  <li>กินกอกก <button name="delete_btn">x</button></li>
 	</ul>
       </div>
       <div class="clear"></div>
