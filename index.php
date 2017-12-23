@@ -26,7 +26,7 @@
     <div class="container">
       <div class="col">
 	<header><h1>TODO</h1></header>
-	<input class="field" name="new_item" /> <button id="new_item_btn">Add</button>
+	<input class="field" name="new_item" placeholder="TEST" /> <button id="new_item_btn">Add</button>
 	<ul class="list">
 	  <li>สอน Git <button name="delete_btn">x</button></li>
 	  <li>กินกอกก <button name="delete_btn">x</button></li>
