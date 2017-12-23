@@ -1,3 +1,48 @@
-TEST 1
-<h1>TEST 2</h1>
-<h1>TEST 3</h1>
+<!doctype html>
+<html>
+  <head>
+    <title>Todo</title>
+    <style>
+     .container {
+	 position: relative;
+     }
+     .container .col {
+	 float:left;
+	 position:relative;
+	 padding: 0 20px;
+     }
+     .clear {
+	 clear:both;
+     }
+     .col .list {
+	 padding-left:1em;
+     }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="col">
+	<header><h1>TODO</h1></header>
+	<ul class="list">
+	  <li>สอน Git</li>
+	  <li>กินกอกก</li>
+	</ul>
+      </div>
+      <div class="col">
+	<header><h1>DOING</h1></header>
+	<ul class="list">
+	  <li>สอน Git</li>
+	  <li>กินกอกก</li>
+	</ul>
+      </div>
+      <div class="col">
+	<header><h1>DONE</h1></header>
+	<ul class="list">
+	  <li>สอน Git</li>
+	  <li>กินกอกก</li>
+	</ul>
+      </div>
+      <div class="clear"></div>
+    </div>
+  </body>
+</html>
