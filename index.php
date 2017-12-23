@@ -23,6 +23,7 @@
     <div class="container">
       <div class="col">
 	<header><h1>TODO</h1></header>
+	<input name="new_item" /> <button id="new_item_btn">Add</button>
 	<ul class="list">
 	  <li>สอน Git</li>
 	  <li>กินกอกก</li>
